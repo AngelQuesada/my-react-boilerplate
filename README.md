@@ -45,7 +45,8 @@ The basis here are:
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your .env file.
+All these keys come from firebase.
 
 `REACT_APP_apiKey`
 `REACT_APP_authDomain`
