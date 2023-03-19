@@ -8,8 +8,8 @@ export const AppTheme = ({ children }) => {
       <ThemeProvider theme={theme}>
         <CssBaseline />
 
-        { children }
+        {children}
       </ThemeProvider>
     </>
-  )
-}
+  );
+};

@@ -5,6 +5,6 @@ import { myAppSlice } from './myapp/myAppSlice';
 export const store = configureStore({
   reducer: {
     auth: authSlice.reducer,
-		myApp: myAppSlice.reducer
-  }
+    myApp: myAppSlice.reducer,
+  },
 });
